@@ -4,7 +4,7 @@ To use the graduation system, you need to be enolled onto the platform through y
 
 ## Login System
 To login to DiGradSys, four steps are required as outlined in the image below.
-<img src="https://raw.githubusercontent.com/jkappati/uggraduationmanual/main/images/login/login1.png">
+<img src="https://raw.githubusercontent.com/jkappati/uggraduationmanual/main/images/login/login1.png">\
 Step 1: From the red outline labeled 1, choose staff or student depending on your status.\
 Step 2: From the second red outline, enter your username (thus: your UG mail account)\
 Step 3: In the third red outline, enter your staff ID or student ID depending on what you chose in Step 1\
@@ -15,7 +15,7 @@ No content yet
 
 ## Login Account Activation
 After the login, you will see this page below but unfortunately you will not be able to use the application unless you activate your account. This step is very important because your login credential is trival and anyone can get access to you. To avoid this, an activation code is sent to your UG mail anytime you login. Visit your mail and copy the code. When done follow the step below to activate your account.
-<img src="https://raw.githubusercontent.com/jkappati/uggraduationmanual/main/images/login/login2.png">
+<img src="https://raw.githubusercontent.com/jkappati/uggraduationmanual/main/images/login/login2.png">\
 Step 1: Click on the avatar image on the top left conner (Red Tag 1).\
 Step 2: Make sure your usename is diplayed accurately (Red Tag 2).\
 Step 3: Click on Activate Account (Red Tag 3). In doing this, a new pop-up will showing, requesting for your activation code sent to you earlier in your mail. Paste the code into the filed provided and activate accordingly.\
