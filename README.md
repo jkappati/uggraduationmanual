@@ -23,25 +23,56 @@ Step 4: Upon a successful login, your right side menu will be populated (Red Tag
 Step 5: Remember to logout when done using the application by clicking on logout (Red Tag 5).
 
 ## System Navigation
+This section discusses the various menus available to access to all relevant information. Once again, it should be noted not all menus are made available to users depending on their roles. Only focus on that is made avaiable to you and follow suite.
 ### Exam Analysis
-No content yet
+Under Exam Analysis, you may see all three sub menus, thus\
+1. Student Exam Records
+2. Generate Gradaution Data
+3. Student Advising
+
+#### Student Exam Records
+no content yet
+
+#### Generate Graduation Data
+no content yet
+
+#### Student Advising
+no content yet
 
 ### Review Complains
-No content yet
+Under Review Complains, you may see all three sub menus, thus\
+1. Exam Officers
+2. Graduation Issues
+3. Missing Grades
 
 ### Graduation Approval
-No content yet
+Under Graduation Approval, you may see all three sub menus, thus\
+1. HoD Approval
+2. Examiner's Board Approval
+3. College Approval
 
 ### System Setup
-No content yet
+Under System Setup, you may see all seven sub menus, thus\
+1. View School Data
+2. View College Data
+3. View Specialization
+4. Data Generator
+5. Staff Management
+6. System Users
+7. Graduation Requirement
 
 ### ITS Data Logs
-No content yet
+Under Exam Analysis, you may see all two sub menus, thus\
+1. Missing Specialization
+2. Missing Result Code
 
 ### File Downloads
 No content yet
 
 ### Graduation Archive
+No content yet
+
+### Data Analytics
 No content yet
 
 ## FAQs
