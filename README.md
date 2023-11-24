@@ -74,7 +74,7 @@ After loading the graduation data for a particular college, you will see the dat
 
 You have to take note of a few buttons and actions that will allow you to perform some tasks.
 
-<img srchttps://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/GraduationApproval/record_view_buttons.PNG >
+<img src=https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/GraduationApproval/record_view_buttons.PNG >
 
 The search bar (Red Tag 1), allows you to search for a specific record.
 You can select the number of records to view on a page using the **show entries** button (Red Tag 2)
