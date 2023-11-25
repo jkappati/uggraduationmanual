@@ -147,6 +147,8 @@ To verify students’ performance, click on **Verify Performance** (Red Tag 2). 
 
 ### Review Complains
 
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ReviewComplains/Slide16.PNG>
+
 Under Review Complains, you may see all three sub-menus, thus
 
 1. Exam Officers
