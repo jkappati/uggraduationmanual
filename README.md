@@ -163,7 +163,7 @@ Under Graduation Approval, you may see all three sub-menus, thus
 2. Examiner's Board Approval
 3. College Approval
 
-<img src ="">
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/GraduationApproval/Slide23.PNG>
 
 ### System Setup
 
@@ -177,12 +177,16 @@ Under System Setup, you may see all seven sub-menus, thus
 6. System Users
 7. Graduation Requirement
 
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/Slide24.PNG>
+
 ### ITS Data Logs
 
 Under Exam Analysis, you may see all two sub-menus, thus
 
 1. Missing Specialization
 2. Missing Result Code
+
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ITSDataLogs/Slide37.PNG>
 
 ### File Downloads
 
