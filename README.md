@@ -44,7 +44,63 @@ After the data has loaded, you should have your table filled up with the availab
 6. Finally, to view how many records were loaded from the ITS, check the item displayed in Reg Tag 6.
 
 #### Generate Graduation Data
-no content yet
+To generate graduation data, click on the **Generate Graduation Data** (Red Tag 1) menu as shown in the figure below 
+
+<img src=https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/GraduationApproval/generate_graduation_data.PNG >
+
+On this page, you can perform the following function 
+- Load Graduation Records 
+- Generate missing data
+- Approve Student for graduation 
+- Download Approved Student for Exams board 
+- etc..
+
+To load graduation data for a specific college, click on  **Load College Data**(Red Tag 1) as shown in the figure below 
+
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/GraduationApproval/load_records.PNG >
+
+A drop-down form is displayed after clicking. as shown above.
+You are required to fill out the form accordingly (Red Tag 2 through Red Tag 6). After filling in all required fields, click on **Load Data** (Red Tag 7) to generate the graduation data.
+
+You can also click on the **Search Student Data**(Red Tag 8) if you wish to search for existing student data.
+
+You can also generate the approved list by the exam officer based on the information provided by clicking on the **Generate Approved Data** (Red Tag A).
+
+To download the approved data from the exam board, click on **Download Exam Board** (Red Tag B)
+
+You can also download the Graduation Table for all approved Students by clicking **Download Grad Table** (Red Tag C)
+
+After loading the graduation data for a particular college, you will see the data as shown in the figure below.
+
+You have to take note of a few buttons and actions that will allow you to perform some tasks.
+
+<img src=https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/GraduationApproval/record_view_buttons.PNG >
+
+The search bar (Red Tag 1), allows you to search for a specific record.
+You can select the number of records to view on a page using the **show entries** button (Red Tag 2)
+
+The Actions column (Red Tag 3) of the records has multiple buttons with specific functionalities.
+
+You can view a candidate's detailed decision by clicking the first icon of the action.
+
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/GraduationApproval/summary_view.PNG >
+
+The broadsheet can also be viewed by clicking on the second icon
+
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/GraduationApproval/broadsheet.PNG>
+
+To rerun a student's data, click on the third icon and provide the Student ID. Click on **Load New Data** after entering the ID
+
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/GraduationApproval/reload_data.PNG>
+
+You can send mail directly to a student by clicking on the mail icon.
+
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/GraduationApproval/send_st_main.PNG>
+
+To approve a student for graduation (single approval), click on the approval icon and select **Approve Now\*\***. If you wish to reject a student, you have to provide the reason for the rejection and click on **Reject Now**
+
+> Note that, without the entering a reason for rejection, you can't reject a student.
+
 
 #### Student Advising
 no content yet
