@@ -147,13 +147,13 @@ To verify students’ performance, click on **Verify Performance** (Red Tag 2). 
 
 ### Review Complains
 
-<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ReviewComplains/Slide16.PNG>
-
 Under Review Complains, you may see all three sub-menus, thus
 
 1. Exam Officers
 2. Graduation Issues
 3. Missing Grades
+
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ReviewComplains/Slide16.PNG>
 
 ### Graduation Approval
 
@@ -162,6 +162,8 @@ Under Graduation Approval, you may see all three sub-menus, thus
 1. HoD Approval
 2. Examiner's Board Approval
 3. College Approval
+
+<img src ="">
 
 ### System Setup
 
