@@ -137,7 +137,13 @@ You can also view bulk-approved data by clicking on the **Bulk Approval** (Red T
 
 #### Student Advising
 
-no content yet
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/StudentAdvising/Slide14.PNG>
+
+This menu allows you to view the general performance of students
+
+To verify students’ performance, click on **Verify Performance** (Red Tag 2). Provide the student ID(s) in the form provided (E.g., 10834572 or 10947654,10764563,10756478) as shown in the figure below. Click on **Load Data**(Red Tag 3) after providing the student(s) ID.
+
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/ExamAnalysis/StudentAdvising/Slide15.PNG>
 
 ### Review Complains
 
