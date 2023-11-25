@@ -43,8 +43,11 @@ Under Exam Analysis, you may see all three sub-menus, thus
 
 To load student exam records (also known as the broadsheet or transcript), click on the Load Exam Record button (Red Tag 1). This action will load a form for you to fill out. Fill out the form accordingly as applicable to your department. When done, click on the Load Data (Red Tag 2) and wait for a few minutes to load your data (this might take some time if you are expecting a large student population).\
 In cases where you want to view a small set of students, use the Data Search button (Red Tag 3). For only one student, just provide the student ID (eg: 10834829). But for multiple students, provide the student IDs in comma-separated form (eg: 10938727,10373846,10372638).
-<img src="https://raw.githubusercontent.com/jkappati/uggraduationmanual/main/images/sidebartools/ExamAnalysis/ExamAnalysis1.png">\
+
+<img src="https://raw.githubusercontent.com/jkappati/uggraduationmanual/main/images/sidebartools/ExamAnalysis/ExamAnalysis1.png">
+
 After the data has loaded, you should have your table filled up with the available records found as shown below. Note that for privacy issue, the student's name and ID is grayed out.
+
 <img src="https://raw.githubusercontent.com/jkappati/uggraduationmanual/main/images/sidebartools/ExamAnalysis/ExamAnalysis2.png">\
 
 1. To view the student records, click on their name (Red Tag 1) and wait for a few seconds to load it.
