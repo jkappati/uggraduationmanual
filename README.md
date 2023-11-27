@@ -222,11 +222,11 @@ To add a new user, click on **New Add** (Red Tag 1) and provide the details in t
 <img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/SystemUsers/Slide34.PNG>
 
 To view or load graduation requirements, click on **Graduation Requirement** (Red Tag 1).
-<img src = >
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/GraduationRequirement/Slide42.PNG >
 
 You can add a new requirement or download an existing one by clicking on **Load Requirement** (Red Tag 2) fill out the form accordingly and either click on **Load Data** (Red Tag 6) or **Download Requirement** (Red Tag 7)
 
-<img src = >
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/GraduationRequirement/Slide43.PNG >
 
 > You can search for a particular requirement by using the search area provided (Red tag 3)
 
