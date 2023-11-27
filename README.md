@@ -211,7 +211,7 @@ To update auxiliary data, click on **Update Auxiliary Data** (Red Tag 1). Fill t
 
 Click on the **Staff management** menu to view details of all staff including name, UG mail etc. You can use the search bar (Red Tag 2) to search for a particular staff using any credential. See the figure below.
 
-<img src = >
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/Slide39.PNG >
 
 Click on the **System Users** menu to view the details of all users including username, department etc. You can use the search bar (Red Tag 2) to search for a particular user using any credential. See the figure below.
 
