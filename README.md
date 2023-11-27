@@ -199,15 +199,15 @@ This menu is for the generation of data regarding graduation, selgraduation and 
 
 To generate graduation data, click on the **Generate Graduation Data** (Red Tag 1) as shown in the figure below. You are required to fill out the drop-down form (Red Tag 2 to Red Tag 6). After, click on the **Generate Data** (Red Tag 6)
 
-<img src = >
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/GenerateData/Slide29.PNG>
 
 To generate selGraduation Data, click on the **Generate selGraduation Data** (Red Tag 1). Provide the student ID in the form (Red Tag 2). After, click on **Generate Selected Data**
 
-<img src = >
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/GenerateData/Slide30.PNG >
 
 To update auxiliary data, click on **Update Auxiliary Data** (Red Tag 1). Fill the form accordingly (Red Tag 2 to Red Tag 3) and click on **Process Data**
 
-<img src = >
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/GenerateData/Slide31.PNG>
 
 Click on the **Staff management** menu to view details of all staff including name, UG mail etc. You can use the search bar (Red Tag 2) to search for a particular staff using any credential. See the figure below.
 
@@ -215,9 +215,11 @@ Click on the **Staff management** menu to view details of all staff including na
 
 Click on the **System Users** menu to view the details of all users including username, department etc. You can use the search bar (Red Tag 2) to search for a particular user using any credential. See the figure below.
 
-<img src = >
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/SystemUsers/Slide33.PNG >
 
 To add a new user, click on **New Add** (Red Tag 1) and provide the details in the form accordingly (Red Tag 2 to Red Tag 5). Click on **Confirm Staff ID** (Red Tag 6) to validate the ID. After clicking on **Create** User\*\* (Red Tag 7). See the figure below
+
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/SystemUsers/Slide34.PNG>
 
 To view or load graduation requirements, click on **Graduation Requirement** (Red Tag 1).
 <img src = >
