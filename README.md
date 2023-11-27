@@ -179,6 +179,18 @@ Under System Setup, you may see all seven sub-menus, thus
 
 <img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/Slide24.PNG>
 
+To view school data, click on the **View School Data** menu to view details of schools including School Name, School Code etc. You can use the search bar (Red Tag 2) to search for a particular school. See the figure below.
+
+<img src =https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/Slide25.PNG >
+
+Click on the **View College Data** menu to view details of colleges including College Name, College Code etc. You can use the search bar (Red Tag 2) to search for a particular college. See the figure below.
+
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/Slide26.PNG>
+
+Click on the **View Specification Data** menu to view details of the specification including Specification Name, Specification Code etc. You can use the search bar (Red Tag 2) to search for a particular specification. See the figure below.
+
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/Slide27.PNG>
+
 ### ITS Data Logs
 
 Under Exam Analysis, you may see all two sub-menus, thus
