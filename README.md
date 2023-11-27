@@ -191,6 +191,9 @@ Click on the **View Specification Data** menu to view details of the specificati
 
 <img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/Slide27.PNG>
 
+This menu is for the generation of data regarding graduation, selgraduation and also updating auxiliary Data.
+<img src = https://github.com/jkappati/uggraduationmanual/blob/michael/images/sidebartools/SystemSetup/GenerateData/Slide28.PNG>
+
 ### ITS Data Logs
 
 Under Exam Analysis, you may see all two sub-menus, thus
